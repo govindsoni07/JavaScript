@@ -1,1 +1,1 @@
-alert("Good Morningg")
+alert("Good Morning")
